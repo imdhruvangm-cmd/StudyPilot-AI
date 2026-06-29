@@ -2,7 +2,7 @@
 
 ## Features
 - PDF upload
-- Gemini AI summary / Q&A
+- GROQ AI summary / Q&A
 
 ## Run
 pip install -r requirements.txt
