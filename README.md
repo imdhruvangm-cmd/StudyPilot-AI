@@ -3,9 +3,13 @@
 
 ## Features
 - PDF upload
-- GROQ AI summary / Q&A
+- AI summary
+- Flashcards
+- Search In Notes
+- Ask The AI To Be Your Tutor
 - Time Table Maker
-- PANIC MODE!! 
+- PANIC MODE!!
+- Progress Tracker
 
 ## Run
 pip install -r requirements.txt
